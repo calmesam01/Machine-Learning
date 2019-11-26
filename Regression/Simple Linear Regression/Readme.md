@@ -7,3 +7,4 @@ It can be seen from the above visualization that the model is pretty good for th
 
 ![b](https://user-images.githubusercontent.com/16416130/69638494-ccdd1a80-1028-11ea-9c62-68b7bb8c1a67.png)
 
+It can be seen from the above visualization that the model is pretty good for the test set too and the predicted value is close to the actual value. Hence, the cost function is minimized.
