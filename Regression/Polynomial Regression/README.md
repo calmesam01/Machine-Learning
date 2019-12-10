@@ -4,3 +4,4 @@ Visualizing the Linear Regression model for the dataset
 
 Visualizing the Polynomial Regression model for the dataset
 
+![b1](https://user-images.githubusercontent.com/16416130/70484179-10b83100-1ab9-11ea-98db-e89c8be4d656.png)
