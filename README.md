@@ -6,3 +6,6 @@ The various machine learning approaches learned are:
 2. Classification
 3. Clustering
 4. Reinforcement Learning
+5. Natural Language Processing
+6. Deep Learning
+7. Dimensionality Reduction
